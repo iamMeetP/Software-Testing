@@ -1,0 +1,9 @@
+
+git init - for initalization
+git add . - for adding folder
+git status -  to check status
+git config --global user.name (repositery name) - for git login
+git config --global user.email (mail id) - for login
+git commit -m ("message") - for msg
+git remote add origin (repository link) - for selecting folder
+git push origin (master/main) - final upload
